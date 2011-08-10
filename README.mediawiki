@@ -1,0 +1,8 @@
+= nginx-misc =
+
+A collection of scripts and other stuff related to [http://wiki.nginx.org Nginx].
+
+== Author ==
+
+Rogério Carvalho Schneider <stockrt@gmail.com>
+[http://stockrt.github.com]

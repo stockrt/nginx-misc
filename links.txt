@@ -1,0 +1,38 @@
+# Nginx Devel
+http://www.nginxguts.com
+http://www.nginx-discovery.com
+http://wiki.nginx.org/Resources
+http://wiki.nginx.org/HeadersManagement
+
+http://agentzh.org/misc/slides/perl-lz-apps
+http://agentzh.org/misc/slides/nginx-conf-scripting
+http://agentzh.org/misc/slides/recent-dev-nginx-conf
+http://agentzh.org/misc/slides/nginx-state-of-the-art
+
+http://www.evanmiller.org/nginx-modules-guide.html
+http://www.evanmiller.org/nginx-modules-guide-advanced.html
+
+http://www.slideshare.net/joshzhu/nginx-internals
+http://www.slideshare.net/redivy/nginx-internals-3133209
+
+http://blog.zhuzhaoyuan.com/2009/08/creating-a-hello-world-nginx-module
+http://nutrun.com/weblog/2009/08/15/hello-world-nginx-module.html
+
+http://docs.huihoo.com/nginx/nginx-modules-guide.html
+
+# I
+http://nginxforums.com/index.php?topic=8.0
+# II
+http://nginxforums.com/index.php?topic=9.0
+# III
+http://nginxforums.com/index.php?topic=10.0
+# IV
+http://nginxforums.com/index.php?topic=11.0
+# V
+http://nginxforums.com/index.php?topic=12.0
+# VI
+http://nginxforums.com/index.php?topic=13.0
+# VII
+http://nginxforums.com/index.php?topic=14.0
+# VIII
+http://nginxforums.com/index.php?topic=15.0
