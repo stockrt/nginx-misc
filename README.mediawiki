@@ -4,6 +4,6 @@ A collection of scripts and other stuff related to [http://wiki.nginx.org Nginx]
 
 == Author ==
 
-Rogério Carvalho Schneider <nowiki><</nowiki>stockrt@gmail.com<nowiki>></nowiki>
+Rogério Carvalho Schneider <nowiki><stockrt@gmail.com></nowiki>
 
 [http://stockrt.github.com http://stockrt.github.com]
